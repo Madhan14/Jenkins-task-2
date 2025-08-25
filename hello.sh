@@ -5,3 +5,5 @@ echo "Current date and time: $(date)"
 echo "Current user: $(whoami)"
 echo "Uptime of the system: $(uptime)"
 echo "Disk usage: $(df -h | grep '/$')"
+test mail trigger
+test mail trigger
